@@ -3,6 +3,9 @@ Here are some generated sites that list the domains and logos I generated from l
 # Only free .com domains:
 [Free Com Domains](https://logodomains.steve.pm/com/1.html)
 
+# Free .io where .com is registered:
+[Free io Domains](https://logodomains.steve.pm/io/1.html)
+
 # Free .com and .io domains:
 [Free Com And Io Domains](https://logodomains.steve.pm/all/1.html)
 
