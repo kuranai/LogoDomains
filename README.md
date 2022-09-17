@@ -1,4 +1,8 @@
-Here are some generated sites that list the domains and logos I generated from logoground.com data.
+# Idea
+I have found a website that is offering some logos [logoground.com](https://logoground.com/) and found the descriptions could be cool domain names.
+So I scraped the website, cleaned up some of the words and special chars and checked the domains for the words with dns and whois queries.
+
+Because I lost interest in creating a proper website, I just generated some static websites to look at the domains:
 
 # Only free .com domains:
 [Free Com Domains](https://logodomains.steve.pm/com/1.html)
